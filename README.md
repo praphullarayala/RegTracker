@@ -13,7 +13,7 @@ RegTracker is an interactive web application that monitors regulatory mandates i
 
 ## Demo
 
-Visit the live demo of RegTracker at: [https://github.com/praphullarayala/RegTracker](https://github.com/praphullarayala/RegTracker) 
+Visit the live demo of RegTracker at: [https://praphullarayala.github.io/RegTracker/](https://praphullarayala.github.io/RegTracker/) 
 
 ## Getting Started
 
@@ -85,45 +85,6 @@ Guidelines and reports are published by the EBA without having to follow all the
 - 🟢 **Green**: On-time publications
 - 🟠 **Orange**: Delayed publications
 - 🔴 **Red**: Overdue and unpublished documents
-
-## Deployment
-
-This app can be deployed to various platforms:
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Import the repository into Vercel
-3. Vercel will automatically detect React and configure the build settings
-4. Deploy and enjoy your live app
-
-### Netlify
-
-1. Push your code to GitHub
-2. Import the repository into Netlify
-3. Configure build settings:
-   - Build command: `npm run build`
-   - Publish directory: `build`
-4. Deploy and enjoy your live app
-
-### GitHub Pages
-
-1. Install the gh-pages package:
-   ```bash
-   npm install --save-dev gh-pages
-   ```
-2. Add these lines to your package.json:
-   ```json
-   "homepage": "https://praphullarayala.github.io/RegTracker",
-   "scripts": {
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
-   }
-   ```
-3. Deploy to GitHub Pages:
-   ```bash
-   npm run deploy
-   ```
 
 ## Contributing
 

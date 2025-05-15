@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RegTracker/static/css/main.e6c13ad2.css",
+    "main.js": "/RegTracker/static/js/main.728e4385.js",
+    "static/js/453.42d33f96.chunk.js": "/RegTracker/static/js/453.42d33f96.chunk.js",
+    "index.html": "/RegTracker/index.html",
+    "main.e6c13ad2.css.map": "/RegTracker/static/css/main.e6c13ad2.css.map",
+    "main.728e4385.js.map": "/RegTracker/static/js/main.728e4385.js.map",
+    "453.42d33f96.chunk.js.map": "/RegTracker/static/js/453.42d33f96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.728e4385.js"
+  ]
+}
